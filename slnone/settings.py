@@ -152,10 +152,10 @@ EMAIL_HOST_PASSWORD = 'vlfe zxrg actb ylvb'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
-        'NAME': 'SLN', # Database name
+        'NAME': 'Cyberbox', # Database name
         'USER': 'admin',
-        'PASSWORD': 'Project1234567890#',
-        'HOST': 'dbb.c9qyso864g7y.eu-north-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
+        'PASSWORD': 'Ram8179076700',
+        'HOST': 'database-doc.crssqckuk9yr.ap-south-1.rds.amazonaws.com',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
          'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES,NO_ENGINE_SUBSTITUTION'",
